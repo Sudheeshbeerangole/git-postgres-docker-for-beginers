@@ -38,7 +38,7 @@ Now lets fork a project provided to complete this activity.
 
 Follow these steps to fork a project:
 
-1. Go to the project url using this link: https://github.com/Sudheeshbeerangole/Search-Workshop1
+1. Go to the project url using this link: https://github.com/Sudheeshbeerangole/git-postgres-docker-for-beginers.git
 2. Click on the fork button in the project page
 3. Select a namespace to fork the project.
 

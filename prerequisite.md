@@ -14,12 +14,12 @@ Commands to install the latest Git from the officially maintained package archiv
 
     sudo apt-get install git
     
-    git clone https://github.com/Sudheeshbeerangole/Search-Workshop1
+    git clone https://github.com/Sudheeshbeerangole/git-postgres-docker-for-beginers.git
     
 creating a github account 
 <br>Step 1: open  https://github.com/ and sign up
 <br>Step 2: Login with your email
-<br> Step 3: open https://github.com/Sudheeshbeerangole/Search-Workshop1 in your browser and Fork (option between watch and star) 
+<br> Step 3: open https://github.com/Sudheeshbeerangole/git-postgres-docker-for-beginers.git in your browser and Fork (option between watch and star) 
 
 ## Docker install 
     1. Go to  Search-Workshop1 (which is cloned in above step)
